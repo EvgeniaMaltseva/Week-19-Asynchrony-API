@@ -1,0 +1,28 @@
+.container {
+    text-align: center;  
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 600;
+    color: blueviolet;
+}
+
+.b-1 {
+    border: solid 2px;
+    border-radius: 25%;
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(176, 176, 240);
+    color: white;
+    min-height: 40px;
+    min-width: 35%;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 2px solid maroon;
+    padding-bottom: 5px;
+}
